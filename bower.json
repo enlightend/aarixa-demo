@@ -1,0 +1,18 @@
+{
+  "name": "aarixa-demo",
+  "version": "0.9",
+  "homepage": "https://github.com/PeterKassenaar/aarixa-demo",
+  "authors": [
+    "Peter Kassenaar <info@kassenaar.com>"
+  ],
+  "description": "Demo-app voor aariXa infosessie AngularJS 2 april 2015",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ]
+}
